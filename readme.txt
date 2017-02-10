@@ -1,4 +1,5 @@
 Git is a distributed version control system.
+git for --no-ff
 creating a new branch is gitdev.
 sencond.
 first.
