@@ -1,4 +1,5 @@
 Git is a distributed version control system.
+add merge with nothing.
 ok
 git for --no-ff
 creating a new branch is gitdev.
