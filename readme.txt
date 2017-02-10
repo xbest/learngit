@@ -1,4 +1,5 @@
 Git is a distributed version control system.
+merge for with ff test.
 add merge with nothing.
 ok
 git for --no-ff
